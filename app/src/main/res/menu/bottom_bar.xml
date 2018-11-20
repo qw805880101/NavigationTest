@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/showcase"
+        android:icon="@mipmap/ic_launcher"
+        android:title="首页"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/preview"
+        android:icon="@mipmap/ic_launcher"
+        android:title="我的"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/lottiefiles"
+        android:icon="@mipmap/ic_launcher"
+        android:title="编辑"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/learn"
+        android:icon="@mipmap/ic_launcher"
+        android:title="hello"
+        app:showAsAction="always|withText"/>
+</menu>
